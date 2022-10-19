@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+img {
+    height: 100px;
+    width: 140px;
+}
+
+h1 {
+    color: deepskyblue;
+}
+
+#lists div {
+    display: flex;
+    align-items: center;
+}
+
+.options {
+    display: flex;
+}
